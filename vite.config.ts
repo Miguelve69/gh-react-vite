@@ -13,6 +13,6 @@ export default defineConfig({
       external: /^lit/
     }
   },
-  base: 'https://miguelve69.github.io/'
+  base: 'https://miguelve69.github.io/gh-react-vite/'
   
 })
